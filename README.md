@@ -23,7 +23,22 @@
 
 ---
 
-## Example Usage
+##Customization
+Feel free to customize this project by:
 
-Here’s what a typical run might look like:
+Adding additional tasks or logic to the main program loop.
+Modifying the input prompts to suit your needs.
+Expanding it into a more complex command-based application.
+
+---
+
+##Contribution
+Contributions are welcome! If you have ideas for improvement, feel free to fork the project and submit a pull request.
+
+---
+
+##License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
 
