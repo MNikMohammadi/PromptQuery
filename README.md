@@ -23,7 +23,7 @@
 
 ---
 
-##Customization
+## Customization
 Feel free to customize this project by:
 
 Adding additional tasks or logic to the main program loop.
@@ -32,12 +32,12 @@ Expanding it into a more complex command-based application.
 
 ---
 
-##Contribution
+## Contribution
 Contributions are welcome! If you have ideas for improvement, feel free to fork the project and submit a pull request.
 
 ---
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
